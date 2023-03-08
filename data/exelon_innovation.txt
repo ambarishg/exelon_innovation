@@ -139,3 +139,39 @@ Exploring transformational technology. TechEXChange is the combined group of tea
 
 Innovation Expo
 Bringing employees together to learn and share. Our Innovation Team hosted the sixth annual Innovation Expo in Washington D.C., focusing on the theme “Customer Centricity,” with more than 2,700 people in attendance. More than 500 employees submitted their ideas on how to provide reliable, safe and clean energy to our customers. Project finalists included an innovative way to remove carbon from the atmosphere and collect it for other uses, and an analytics platform that uses hyper-local data from past outages and current weather conditions to respond to an outage rapidly.
+
+DOUBLE THE TROUBLE: HOW TECH PARTNERSHIPS ARE SHAKING UP THE ENERGY INDUSTRY
+Electric vehicles, the industrial Internet, fuel cells: Exelon is partnering with leading innovators to develop solutions to tackle the greatest energy challenges
+Chris Gould, Senior Vice President of Corporate Strategy
+7/13/2017 4:00 PM
+​​Two minds are greater than one. The world’s best innovators embrace others’ ideas.
+
+That’s why at Exelon, we actively pursue partnerships with start-ups, companies, research labs and universities to develop new, innovative solutions to tackle America’s greatest energy challenges. We showcased these partnerships, as well as our own employees’ ideas, at our Innovation Expo on June 27. 
+
+We’re building the future today and embracing ideas from every corner of the country. Our team is eager to take you behind the scenes and show off the groundbreaking technology and programs we’re shaping and developing this year. Check out the Exelon partnerships that are currently shaking up the energy industry—big time.  
+
+General Electric: Pairing the Internet of Things, Advanced Analytics and Energy Production
+
+Predix, GE Power’s cloud-based software, connects our generation fleet to a single data stream, providing real-time insights from turbines and generators. Prior to Predix, data streams were split across the various parts of a plant’s operations. Equipped with streamlined data, operators can now deliver actionable, high-level insights faster than ever before.
+
+How we’re using it: Predix warns operators when systems need repairs, which shortens maintenance time and minimizes unplanned outages; it also predicts wind speeds one hour in advance, allowing wind farms to gauge daily production and reduce energy loss; and it’s helping make our best-in-class nuclear equipment more reliable and cost-efficient. These are just a few of the many ways Predix is transforming our company one megabyte of data at a time. 
+
+
+Nissan: Making Electric Vehicles Easy and Effortless
+
+Electric vehicles are still a niche market; they represent less than 1 percent of all vehicles purchased. Why the lag? Many Americans have questions about EVs, including the price, how they charge and if the batteries die, among others.
+
+
+To accelerate electric vehicle adoption, Constellation is working with Nissan to market EVs as affordable and practical. EZ-EV is the solution. It’s the one-stop shop for all things EV-related. Aside from the $10,000 discount on a brand-new, zero-emission Nissan Leaf, EZ-EV provides deals on charging stations and electricity, and makes the whole process of buying an EV effortless. It’s a one-stop shop for all-things EV. 
+
+Why we’re doing: Constellation’s goal is to replace gas-guzzling vehicles with cars that use the fuel of the future: clean energy. Transportation represents 26 percent of America’s greenhouse gas emissions. To tackle climate change, we need more clean energy solutions. 
+
+Bloom Energy and City of Hartford: Providing Clean Energy and Keeping the Lights on During a Natural Disaster 
+
+
+
+The city of Hartford, Connecticut, needed a way to maintain energy during natural disasters. Constellation and Bloom Energy stepped in to help, installing one of the state’s first microgrids, an independent, self-sustaining power supply. 
+
+How it works: The energy is developed by fuel cell technology, which converts natural gas into energy onsite. The process leaves almost no pollution. (Fun fact: NASA originally developed this technology to generate power and oxygen during space exploration.)
+
+The microgrid provides clean energy to four key buildings: Hartford’s Parkville Elementary School, Dwight Branch Library, Parkville Senior Center and Charter Oak Health Center. During an emergency, it powers these locations along with a local gas station and grocery store so residents can purchase essentials such as food and water. Any excess energy generated reduces electricity costs at four local schools. To learn more about the City of Hartford micro grid visit https://youtu.be/2gMv-Diaxow.
