@@ -175,3 +175,41 @@ The city of Hartford, Connecticut, needed a way to maintain energy during natura
 How it works: The energy is developed by fuel cell technology, which converts natural gas into energy onsite. The process leaves almost no pollution. (Fun fact: NASA originally developed this technology to generate power and oxygen during space exploration.)
 
 The microgrid provides clean energy to four key buildings: Hartford’s Parkville Elementary School, Dwight Branch Library, Parkville Senior Center and Charter Oak Health Center. During an emergency, it powers these locations along with a local gas station and grocery store so residents can purchase essentials such as food and water. Any excess energy generated reduces electricity costs at four local schools. To learn more about the City of Hartford micro grid visit https://youtu.be/2gMv-Diaxow.
+
+INNOVATION SPOTLIGHT: EXELON EMPLOYEES PIONEER NEXT-GENERATION ENERGY TECH
+What happens when Exelon’s 34,000 employees put their heads together to solve the energy industry’s biggest challenges? Game-changing innovations that are transforming the industry.
+ 
+6/27/2017 4:00 PM
+​Innovators have lit our homes, sent satellites and robots to explore the far reaches of space, cured intractable diseases and achieved again and again what most believed to be impossible.
+
+Like these innovators, Exelon’s 34,000 employees don’t accept things the way they are; we see them as they could be. Reaching for the impossible is part of the job description here. 
+
+At our annual Innovation Expo, our employees have a chance to show off their inner innovator. Employees form teams and come up with an idea, system or product to solve the energy industry’s biggest challenges. These teams present their ideas at the Expo for other employees and attendees, who then vote on the best inventions. The top three employee winners get to pitch their ideas to Exelon’s executives. It’s kind of like Exelon’s very own episode of “Shark Tank”!
+
+The Expo isn’t just for fun. Many of the ideas from last year’s and this year’s Expos are being developed and implemented across our enterprise. Check out some of our employees’ creative inventions: ​
+​
+
+1. Turn up the Radio [Frequency]: Reading Smart Meters Remotely
+Chicago skyscrapers make for great views, but they often block the wireless signals ComEd engineers use to remotely gather data from smart meters about energy usage in buildings. As a result, engineers had to visit individual buildings and climb into hard to reach places to read meters. Talk about time consuming. By creating localized mesh networks of radio signals that can communicate with smart meters and allow the meters to talk to one another, ComEd invented a first-of-its-kind system to remotely collect and analyze energy data in real time, which will improve the efficiency and reliability of the grid for customers.
+​
+​
+
+2. Cooling Off: An Eco-Friendly Fire-Fighting Gel
+In power plants where temperatures can reach a staggering 300° Celsius, fire prevention is critical. As part of our 2016 Innovation Expo, one team came up with a new chemical compound called FireIce. It’s up to 20 times more powerful than water when fighting fires. And unlike most traditional methods of preventing high-temperature fires, FireIce is non-toxic, environmentally friendly and easy to use and clean up. Produced by Gel Tech Solutions, the gel comes in multiple forms: a 20-lb extinguisher, a 60-gallon compressed-air unit, a built-in unit on utility trucks, handheld spray bottles and even fire-resistant tapes and blankets.
+
+
+
+3. Electric Vehicles: Charging the Future of Ride-Sharing 
+Without enough electric charging stations in America, it’s difficult for electric vehicle owners to join the ride-sharing economy. To solve this problem, an Expo team developed Electric Avenue, a prototype charging station that could be used by electric vehicle ride-sharing cars.
+
+
+
+4. Running on Joules: The Commuter Bus of the Future
+Very few people enjoy their commute to work. A team from Constellation wants to make riding public transportation easier with the Joule bus program: It’s a better ride to work. The buses will promote carpooling to avoid emissions from multiple vehicles, and they’ll include onboard Wi-Fi and larger spaces to do work or relax. For more information, visit RideJoule.com.
+
+5. Home is Where the Data Is: Moving Data Centers Closer to Customers
+For many years, data centers were housed in large buildings located in remote areas far away from cities and urban centers. These centers can no longer keep up with cities’ growing data demands. Employees from ComEd and BGE are pioneering a technology called Modular Data Centers to bring data storage closer to the areas where customers live and work, making maintenance easier and increasing speed and reliability.
+
+
+Innovation always begins with the spirit of discovery — the search for new ideas and answers to our biggest questions. To our fellow innovators at Exelon and across the country: keep working, creating and pushing the envelope. Your idea might just one day become a part of our business portfolio!
+
